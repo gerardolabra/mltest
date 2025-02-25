@@ -93,3 +93,5 @@ mltest/
 ## Contact
 For any questions or inquiries, please contact gerardolabraoliva@gmail.com
 
+This project demonstrates a machine learning pipeline where all files where coded from scratch. (Following Krish Naik's youtube tutorials)
+
